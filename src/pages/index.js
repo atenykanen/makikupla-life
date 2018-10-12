@@ -25,6 +25,7 @@ const Title = styled.h1`
   margin-top: 3rem;
   font-size: 9vw;
   color: red;
+  text-shadow: 2px 2px #efe020;
 `;
 
 const Answer = styled.span`
